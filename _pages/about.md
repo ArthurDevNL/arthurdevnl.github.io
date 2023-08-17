@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hello,"
+title: "Hello!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-and welcome to my personal site. You can find a short description of my background and research interests below. If you want to know more about how I think, you can check out one of my blog posts.
+Welcome to my personal site. You can find a short description of my background and research interests below. Check out one of my blog posts to know more about what's on my mind.
 
 ## Research Interests
 In doing my PhD at [Shift Technology](https://www.shift-technology.com/) and La Rochelle University, I'm mostly focused on applying ML to document analysis on administrative documents (invoices, quotes, medical certificates, etc). Specifically, I work on document information extraction and optical character recognition. I approach the problem from a Neuro-Symbolic perspective, where a traditional probabilistic methods (ie neural networks) are combined with symbolic reasoning. The goal is to improve data efficiency, explainability and performance compared to existing, probabilistic-only methods.  
