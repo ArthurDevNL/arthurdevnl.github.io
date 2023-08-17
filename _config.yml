@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Personal Page"
+title                    : "About Me"
 title_separator          : "-"
 name                     : &name "Arthur Hemmer"
 description              : &description "Hello world"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Arthur Hemmer"
   avatar           : "profile.png"
-  bio              : "ML Research Engineer / PhD Candidate. Working on my PhD on document analysis at Shift Technology in collaboration with La Rochelle University. "
+  bio              : "ML Research Engineer / PhD Candidate @ Shift Technology and La Rochelle University"
   location         : "Paris, France"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"

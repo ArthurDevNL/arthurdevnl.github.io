@@ -2,7 +2,7 @@
 title: "Estimating Post-OCR Denoising Complexity on Numerical Texts"
 collection: publications
 permalink: /publication/2023-07-24-denoising-complexity
-excerpt: 'test'
+excerpt: 'Post-OCR processing has significantly improved over the past few years. However, these have been primarily beneficial for texts consisting of natural, alphabetical words, as opposed to documents of numerical nature such as invoices, payslips, medical certificates, etc. To evaluate the OCR post-processing difficulty of these datasets, we propose a method to estimate the denoising complexity of a text and evaluate it on several datasets of varying nature, and show that texts of numerical nature have a significant disadvantage. We evaluate the estimated complexity ranking with respect to the error rates of modern-day denoising approaches to show the validity of our estimator.'
 date: 2023-07-24
 venue: 'Communications in Computer and Information Science, Volume 1863'
 paperurl: 'https://arxiv.org/abs/2307.01020'
